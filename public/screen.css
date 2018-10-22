@@ -6,4 +6,33 @@ body {
   margin: 0;
   min-height: 100%;
   font: 16px / 1 sans-serif;
+  background-color: rgba(128, 128, 128, 0.89);
+  padding-right: 20px;
+  padding-left: 20px;
+
+}
+
+#bold {
+  font-size: 40px;
+  text-align: center;
+  color: blue;
+}
+#myname {
+  font-size: 20px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+#pic {
+border-radius: 100px;
+padding: 50px;
+background-color: black;
+}
+#summary {
+  font-size: 10px;
+  text-align: center;
+  color: orange;
+}
+.myparagraphs {
+  font-size: 15px;
+
 }
